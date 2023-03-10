@@ -1,0 +1,8 @@
+{
+  "label": "Fuel - 基础知识",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Fuel v1 最初是作为整体以太坊的第 2 层 (L2) 可扩展性技术。这是 2020 年底部署在以太坊主网上的第一个 optimistic rollup。"
+  }
+}
