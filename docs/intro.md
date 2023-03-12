@@ -22,6 +22,8 @@ Fuel 是最快的模块化执行层，提供最高的安全性和最高的灵活
 
 ## 新手入门
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYdlVJQjYdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [1.0 为什么是 Fuel](tutorial-basics/congratulations)
 
 [1.1 什么是 Fuel](tutorial-basics/what-is-fuel)
@@ -31,3 +33,7 @@ Fuel 是最快的模块化执行层，提供最高的安全性和最高的灵活
 2.1 fuel 开发工具链
 
 2.2 开发快速指南
+
+## 学习模块化区块链
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvkfTBWqYUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
